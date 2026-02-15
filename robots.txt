@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://HongLiin.github.io/sitemap.xml
