@@ -2,17 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://HongLiin.github.io/posts/my-first-papermod-post/</loc>
+    <loc>https://hongliin.github.io/categories/</loc>
     <lastmod>2026-02-15T23:29:36+08:00</lastmod>
   </url><url>
-    <loc>https://HongLiin.github.io/posts/</loc>
+    <loc>https://hongliin.github.io/</loc>
     <lastmod>2026-02-15T23:29:36+08:00</lastmod>
   </url><url>
-    <loc>https://HongLiin.github.io/</loc>
+    <loc>https://hongliin.github.io/categories/hugo/</loc>
     <lastmod>2026-02-15T23:29:36+08:00</lastmod>
   </url><url>
-    <loc>https://HongLiin.github.io/categories/</loc>
+    <loc>https://hongliin.github.io/posts/my-first-papermod-post/</loc>
+    <lastmod>2026-02-15T23:29:36+08:00</lastmod>
   </url><url>
-    <loc>https://HongLiin.github.io/tags/</loc>
+    <loc>https://hongliin.github.io/tags/papermod/</loc>
+    <lastmod>2026-02-15T23:29:36+08:00</lastmod>
+  </url><url>
+    <loc>https://hongliin.github.io/posts/</loc>
+    <lastmod>2026-02-15T23:29:36+08:00</lastmod>
+  </url><url>
+    <loc>https://hongliin.github.io/tags/</loc>
+    <lastmod>2026-02-15T23:29:36+08:00</lastmod>
+  </url><url>
+    <loc>https://hongliin.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2026-02-15T23:29:36+08:00</lastmod>
+  </url><url>
+    <loc>https://hongliin.github.io/tags/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2026-02-15T23:29:36+08:00</lastmod>
   </url>
 </urlset>
